@@ -5,11 +5,9 @@
     "build": "docus build"
   },
   "dependencies": {
+    "@nuxt/content": "https://pkg.pr.new/@nuxt/content@092d1b5",
     "docus": "latest",
     "better-sqlite3": "^11.10.0",
     "nuxt": "^3.17.3"
-  },
-  "resolutions": {
-    "@nuxt/content": "https://pkg.pr.new/@nuxt/content@092d1b5"
   }
 }
